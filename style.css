@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background-color: gainsboro;
+}
+
+h1 {
+  width: 25%;
+  margin: 0 auto;
+  color: burlywood;
+  text-align: center;
+  background-color: floralwhite;
+}
+
+.breed{
+  width: 100%;
+  background-color: floralwhite;
+}
+
+.pos-tab{
+  width: 50%;
+  height: auto;
+  margin-left: 25%;
+  text-align: center;
+}
+
+li{
+  width: auto;
+}
+
+a, li, ul{
+  text-decoration: none;
+  padding: 0;
+
+}
+
+ul, li{
+  border: 1px solid black;
+}
+
+h2{
+  background-color: red;
+  padding: 20px;
+  margin-bottom: 0;
+}
+
+
+/*# sourceMappingURL=style.css.map */
